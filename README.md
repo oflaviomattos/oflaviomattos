@@ -46,20 +46,3 @@
     <!-- Add more as needed -->
   </p>
 </div>
-<div align="center">
-  <h3>♟ Jogue Xadrez comigo!</h3>
-  <div id="board" style="width: 400px"></div>
-  <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
-  <script>
-    function initChessboard() {
-      var board = Chessboard('board', {
-        draggable: true,
-        position: 'start',
-      });
-    }
-
-    window.onload = function () {
-      initChessboard();
-    };
-  </script>
-</div>
