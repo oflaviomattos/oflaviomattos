@@ -1,7 +1,6 @@
-![Alt Text](https://flaviomattos.com/1685491445772.jpeg)
+![Alt Text](https://flaviomattos.com/banner.png)
 
 <div align="center">
-  <h1>👋 Hello, I'm Flavio Mattos</h1>
   <p>Welcome to my GitHub profile! 😊</p>
 </div>
 
