@@ -1,15 +1,12 @@
-![Alt Text](https://flaviomattos.com/banner.png)
-
 <div align="center">
   <p>Welcome to my GitHub profile! 😊</p>
 </div>
 
 <br>
 
-<div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oflaviomattos&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oflaviomattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oflaviomattos&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oflaviomattos&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oflaviomattos&theme=vue)
 
 <br>
 
