@@ -43,7 +43,19 @@
   </p>
 </div>
 
-<br>
+<br />
+<h4 align="left">
+<p align="left"> 
+</p>
+<details>
+<summary>Meus Projetos...</summary>
+
+Projeto|Detalhes
+:---:|:---:|
+[Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
+</h4>
+
+
 
 <div align="center">
   <h3>🔗 Useful Links</h3>
