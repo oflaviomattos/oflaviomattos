@@ -47,13 +47,13 @@
 </div>
 
 Formação em andamento:
-[<img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" width="70">](https://www.dio.me/certificate/1EDA6397/share)| Formação Machine Learning Specialist
+[<img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" width="70">](https://www.dio.me/certificate/1EDA6397/share)
 
 
 Cursos Concluidos:
-[<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="70">](https://www.dio.me/certificate/260ED4B2/share)|PHP EXPERIENCE
-[<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="70">](https://www.dio.me/certificate/80FD2AA3/share)| PHP AVANCADO
-[<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="70">](https://www.dio.me/certificate/F5BFD851/share)| Versionamento de Codigo
+[<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="70">](https://www.dio.me/certificate/260ED4B2/share)
+[<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="70">](https://www.dio.me/certificate/80FD2AA3/share)
+[<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="70">](https://www.dio.me/certificate/F5BFD851/share)
 
 <br />
 <h4 align="left">
