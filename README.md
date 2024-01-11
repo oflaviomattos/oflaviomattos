@@ -46,11 +46,11 @@
   </p>
 </div>
 
-Formação em andamento:
-[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="50">](https://www.dio.me/certificate/1EDA6397/share)
+Em andamento:
+[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="70">](https://www.dio.me/certificate/1EDA6397/share)
 
 
-Cursos Concluidos:
+Certificados:
 [<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50">](https://www.dio.me/certificate/260ED4B2/share)
 [<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50">](https://www.dio.me/certificate/80FD2AA3/share)
 [<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50">](https://www.dio.me/certificate/F5BFD851/share)
