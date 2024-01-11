@@ -47,7 +47,7 @@
 </div>
 
 Formação em andamento:
-[<img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" width="50">](https://www.dio.me/certificate/1EDA6397/share)
+[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="50">](https://www.dio.me/certificate/1EDA6397/share)
 
 
 Cursos Concluidos:
