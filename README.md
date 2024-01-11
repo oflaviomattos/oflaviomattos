@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </div>
 
@@ -54,6 +55,7 @@ Certificados:
 [<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50">](https://www.dio.me/certificate/260ED4B2/share)
 [<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50">](https://www.dio.me/certificate/80FD2AA3/share)
 [<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50">](https://www.dio.me/certificate/F5BFD851/share)
+[<img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Fcourses%2Fbadge%2Fe9f9ba3f-9366-43d7-b344-5ba280fbcaba.png&w=128&q=75" width="50">](https://www.dio.me/certificate/A0C835A9/share)
 
 <br />
 <h4 align="left">
