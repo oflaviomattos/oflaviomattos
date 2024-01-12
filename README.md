@@ -84,26 +84,16 @@
 [Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
 [Testes Unitários no C# ](https://github.com/oflaviomattos/trilha-net-testes-unitarios)|Testes Unitários no C#.
 </h4>
-
-
+  
 <details>
-  <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=%F0%9F%94%97+Useful+Links" alt="Typing SVG" /></summary>
+  <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Useful+Links" alt="Typing SVG" /></summary>
 
-  | DETAILS                         |   LINK    |
-  |:-----------------------------:|:-----------:|
-  | [Website/Portfolio](https://www.flaviomattos.com/) | Site        |
-  | [Kaggle](https://www.kaggle.com/flaviomattos)       | Kaggle      |
+  | Website                           | Link                                |
+  | ----------------------------------| ----------------------------------- |
+  | Flavio Mattos's Website            | [flaviomattos.com](https://www.flaviomattos.com/) |
+  | Kaggle Profile                     | [kaggle.com/flaviomattos](https://www.kaggle.com/flaviomattos) |
+  | Replit                             | [replit.com](https://replit.com/) |
+  | Hexed.it                            | [hexed.it](https://hexed.it/)    |
+  | Dontpad                            | [dontpad.com](https://dontpad.com/) |
+
 </details>
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Useful+Links" alt="Typing SVG" />
-  <p align="left">
-    <a href="https://www.flaviomattos.com/">www.flaviomattos.com</a>
-    <a href="https://www.kaggle.com/flaviomattos">www.kaggle.com</a>
-    <a href="https://replit.com/">www.replit.com</a>
-    <a href="https://hexed.it/">www.hexed.it</a>
-    <a href="https://dontpad.com/">https://dontpad.com/</a>
-
-
-  </p>
-</div>
