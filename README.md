@@ -53,12 +53,10 @@
     <tbody>
         <tr>
             <td>Formação PHP Experience</td>
-            <td><a href="https://www.dio.me/certificate/260ED4B2/share"><img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50"></a><a href="https://www.dio.me/certificate/80FD2AA3/share"><img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50"></a></td>
+            <td><a href="https://www.dio.me/certificate/260ED4B2/share" alt="Formação PHP Experience
+"><img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50"></a><a href="https://www.dio.me/certificate/80FD2AA3/share" alt="Desenvolvimento Avançado em PHP
+"><img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50"></a></td>
         </tr>
-<!--         <tr>
-            <td>Desenvolvimento Avançado em PHP</td>
-            <td></td>
-        </tr> -->
         <tr>
             <td>Versionamento de Código com Git e GitHub</td>
             <td><a href="https://www.dio.me/certificate/F5BFD851/share"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50"></a></td>
