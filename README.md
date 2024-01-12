@@ -1,8 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%233DB8B8&size=22&center=true&vCenter=true&width=800&height=100&lines=Hello+I'm+Flavio+Mattos)](#)
+
 <div align="center">
   <p>Welcome to my GitHub profile!</p>
-</div>
-
-<br>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oflaviomattos&theme=vue" />
