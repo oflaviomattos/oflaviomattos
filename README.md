@@ -42,8 +42,7 @@
   </p>
 </div>
 
-<h1>My Skills</h1>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=My+Skills" alt="Typing SVG" />
 <table>
     <thead>
         <tr>
