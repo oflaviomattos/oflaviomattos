@@ -50,23 +50,37 @@
             <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Certificate" alt="Typing SVG" /></th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td>Formação PHP Experience</td>
-            <td><a href="https://www.dio.me/certificate/260ED4B2/share" alt="Formação PHP Experience
-"><img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50"></a><a href="https://www.dio.me/certificate/80FD2AA3/share" alt="Desenvolvimento Avançado em PHP
-"><img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50"></a></td>
-        </tr>
-        <tr>
-            <td>Versionamento de Código com Git e GitHub</td>
-            <td><a href="https://www.dio.me/certificate/F5BFD851/share"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50"></a></td>
-        </tr>
-        <tr>
-            <td>Python para Machine Learning na Prática</td>
-            <td><a href="https://www.dio.me/certificate/A0C835A9/share"><img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Fcourses%2Fbadge%2Fe9f9ba3f-9366-43d7-b344-5ba280fbcaba.png&w=128&q=75" width="50"></a></td>
-        </tr>
-        <!-- Adicione mais linhas conforme necessário -->
-    </tbody>
+<tbody>
+    <tr>
+        <td>Formação PHP Experience</td>
+        <td>
+            <a href="https://www.dio.me/certificate/260ED4B2/share" target="_blank" title="Formação PHP Experience">
+                <img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50" alt="Formação PHP Experience">
+            </a>
+            <a href="https://www.dio.me/certificate/80FD2AA3/share" target="_blank" title="Desenvolvimento Avançado em PHP">
+                <img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50" alt="Desenvolvimento Avançado em PHP">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Versionamento de Código com Git e GitHub</td>
+        <td>
+            <a href="https://www.dio.me/certificate/F5BFD851/share" target="_blank" title="Versionamento de Código com Git e GitHub">
+                <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50" alt="Versionamento de Código com Git e GitHub">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Python para Machine Learning na Prática</td>
+        <td>
+            <a href="https://www.dio.me/certificate/A0C835A9/share" target="_blank" title="Python para Machine Learning na Prática">
+                <img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Fcourses%2Fbadge%2Fe9f9ba3f-9366-43d7-b344-5ba280fbcaba.png&w=128&q=75" width="50" alt="Python para Machine Learning na Prática">
+            </a>
+        </td>
+    </tr>
+    <!-- Adicione mais linhas conforme necessário -->
+</tbody>
+
 </table>
 
 
