@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BB92&random=false&width=435&lines=Hello%2C+I'm+Flavio+Mattos;Welcome+to+my+GitHub+profile!)](#)
-<div align="right">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=41B883&random=false&center=true&width=435&lines=Hello%2C+I'm+Flavio+Mattos;Welcome+to+my+GitHub+profile!">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=oflaviomattos&label=Profile%20views&color=0e75b6&style=flat" alt="oflaviomattos" />
 </div>
 <div align="center">
@@ -7,13 +10,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oflaviomattos&theme=vue" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oflaviomattos&theme=vue" />
 </div>
+<div align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=1&pause=1000&color=41B883&random=false&width=435&lines=My+Skills" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=My+Skills" alt="Typing SVG" />
-<table>
+<table align="center">
     <thead>
         <tr>
-            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Details" alt="Typing SVG" /></th>
-            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Certificate" alt="Typing SVG" /></th>
+            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&center=true&pause=1000&color=41B883&random=false&width=435&lines=Details" alt="Typing SVG" /></th>
+            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&center=true&pause=1000&color=41B883&random=false&width=435&lines=Certificate" alt="Typing SVG" /></th>
         </tr>
     </thead>
 <tbody>
@@ -84,7 +89,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Technologies+and+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&pause=1000&color=41B883&random=false&width=435&lines=Technologies+and+Tools" />
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -101,7 +106,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Get+in+Touch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&pause=1000&color=41B883&random=false&width=435&lines=Get+in+Touch" alt="Typing SVG" />
   <p align="center">
     <a href="mailto:contact@flaviomattos.com" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -122,9 +127,9 @@
 <p align="left"> 
 </p>
 <details>
-<summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=My+Projects" alt="Typing SVG" /></summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=41B883&random=false&width=435&lines=My+Projects" alt="Typing SVG" /></summary>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Project" alt="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Details" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Project" alt="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Details" alt="Typing SVG" />
 :---:|:---:|
 [Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
 [Testes Unitários no C# ](https://github.com/oflaviomattos/trilha-net-testes-unitarios)|Testes Unitários no C#.
@@ -134,7 +139,7 @@
 <p align="left"> 
 </p>
 <details>
-  <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Useful+Links" alt="Typing SVG" /></summary>
+  <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Useful+Links" alt="Typing SVG" /></summary>
 
   | Website                           | Link                                |
   | ----------------------------------| ----------------------------------- |
