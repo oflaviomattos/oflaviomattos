@@ -42,17 +42,37 @@
   </p>
 </div>
 
-img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=In+Progress.." alt="Typing SVG" />
-[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="70">](https://www.dio.me/certificate/1EDA6397/share)
+<h1>My Skills</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Details" alt="Typing SVG" /></th>
+            <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Certificate" alt="Typing SVG" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Formação PHP Experience</td>
+            <td><a href="https://www.dio.me/certificate/260ED4B2/share"><img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50"></a></td>
+        </tr>
+        <tr>
+            <td>Desenvolvimento Avançado em PHP</td>
+            <td><a href="https://www.dio.me/certificate/80FD2AA3/share"><img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50"></a></td>
+        </tr>
+        <tr>
+            <td>Versionamento de Código com Git e GitHub</td>
+            <td><a href="https://www.dio.me/certificate/F5BFD851/share"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50"></a></td>
+        </tr>
+        <tr>
+            <td>Python para Machine Learning na Prática</td>
+            <td><a href="https://www.dio.me/certificate/A0C835A9/share"><img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Fcourses%2Fbadge%2Fe9f9ba3f-9366-43d7-b344-5ba280fbcaba.png&w=128&q=75" width="50"></a></td>
+        </tr>
+        <!-- Adicione mais linhas conforme necessário -->
+    </tbody>
+</table>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Certificates" alt="Typing SVG" />
-[<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50">](https://www.dio.me/certificate/260ED4B2/share)
-[<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50">](https://www.dio.me/certificate/80FD2AA3/share)
-[<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50">](https://www.dio.me/certificate/F5BFD851/share)
-[<img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Fcourses%2Fbadge%2Fe9f9ba3f-9366-43d7-b344-5ba280fbcaba.png&w=128&q=75" width="50">](https://www.dio.me/certificate/A0C835A9/share)
-
-<br />
 <h4 align="left">
 <p align="left"> 
 </p>
@@ -66,6 +86,14 @@ img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1
 </h4>
 
 
+<details>
+  <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=%F0%9F%94%97+Useful+Links" alt="Typing SVG" /></summary>
+
+  | DETAILS                         |   LINK    |
+  |:-----------------------------:|:-----------:|
+  | [Website/Portfolio](https://www.flaviomattos.com/) | Site        |
+  | [Kaggle](https://www.kaggle.com/flaviomattos)       | Kaggle      |
+</details>
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Useful+Links" alt="Typing SVG" />
