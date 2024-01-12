@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <h3>🚀 Technologies and Tools</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Technologies+and+Tools" />
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <h3>📬 Get in Touch</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Get+in+Touch" alt="Typing SVG" />
   <p align="center">
     <a href="mailto:contact@flaviomattos.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -42,11 +42,11 @@
   </p>
 </div>
 
-Em andamento:
+img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=In+Progress.." alt="Typing SVG" />
 [<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="70">](https://www.dio.me/certificate/1EDA6397/share)
 
 
-Certificados:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Certificates" alt="Typing SVG" />
 [<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="50">](https://www.dio.me/certificate/260ED4B2/share)
 [<img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="50">](https://www.dio.me/certificate/80FD2AA3/share)
 [<img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="50">](https://www.dio.me/certificate/F5BFD851/share)
@@ -57,9 +57,9 @@ Certificados:
 <p align="left"> 
 </p>
 <details>
-<summary>Meus Projetos...</summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=My+Projects" alt="Typing SVG" /></summary>
 
-Projeto|Detalhes
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Project" alt="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Details" alt="Typing SVG" />
 :---:|:---:|
 [Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
 [Testes Unitários no C# ](https://github.com/oflaviomattos/trilha-net-testes-unitarios)|Testes Unitários no C#.
@@ -67,11 +67,15 @@ Projeto|Detalhes
 
 
 
-<div align="center">
-  <h3>🔗 Useful Links</h3>
-  <p align="center">
-    <a href="https://www.flaviomattos.com/">Website/Portfolio</a>
-    <a href="https://www.kaggle.com/flaviomattos">Kaggle</a>
-    <!-- Add more as needed -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=38BB92&random=false&width=435&lines=Useful+Links" alt="Typing SVG" />
+  <p align="left">
+    <a href="https://www.flaviomattos.com/">www.flaviomattos.com</a>
+    <a href="https://www.kaggle.com/flaviomattos">www.kaggle.com</a>
+    <a href="https://replit.com/">www.replit.com</a>
+    <a href="https://hexed.it/">www.hexed.it</a>
+    <a href="https://dontpad.com/">https://dontpad.com/</a>
+
+
   </p>
 </div>
