@@ -42,7 +42,39 @@
             </a>
         </td>
     </tr>
-    <!-- Adicione mais linhas conforme necessário -->
+    <tr>
+        <td>Programação em C#</td>
+        <td>
+            <a href="https://drive.google.com/file/d/1pqATeH5mL2V-oxubUaeXKGWDFEm6qi0b/view?usp=drive_link" target="_blank" title="PROGRAMAÇÃO EM C#">
+                <img src="https://hermes.dio.me/articles/cover/1673f198-295f-4f57-8eec-10d000018d51.png" width="50" alt="PROGRAMAÇÃO EM C#">
+            </a>
+        </td>
+    </tr>  
+    <tr>
+        <td>Programação em Java</td>
+        <td>
+            <a href="https://drive.google.com/file/d/1mAYIcdfa77xgamRAc06ausohBMp-nJW9/view?usp=sharing" target="_blank" title="APLICAÇÕES JAVA MOBILE (J2ME)">
+                <img src="https://i0.wp.com/zeegmo.com/images/J2ME_large.png" width="50" alt="APLICAÇÕES JAVA MOBILE (J2ME)">
+            </a>
+        </td>
+    </tr>  
+    <tr>
+        <td>HTML</td>
+        <td>
+            <a href="https://drive.google.com/file/d/1mAYIcdfa77xgamRAc06ausohBMp-nJW9/view?usp=sharing" target="_blank" title="HTML - AVANÇADO">
+                <img src="https://hermes.dio.me/files/assets/6bd4e028-7695-487d-ac25-e973be1c9f9d.svg" width="50" alt="HTML - AVANÇADO">
+            </a>
+        </td>
+    </tr>  
+    <tr>
+        <td>FUNDAMENTOS DE COBIT</td>
+        <td>
+            <a href="https://drive.google.com/file/d/1R8-lBIUKjpxRJAVKX7Axc8kYvkQsro2b/view?usp=sharing" target="_blank" title="FUNDAMENTOS DE COBIT">
+                <img src="https://www.flaviomattos.com/badge/cobit.png" width="70" alt="FUNDAMENTOS DE COBIT">
+            </a>
+        </td>
+    </tr>  
+    <!-- HTML - AVANÇADO -->
 </tbody>
 
 </table>
