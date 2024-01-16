@@ -129,7 +129,7 @@
 <details>
 <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=41B883&random=false&width=435&lines=My+Projects" alt="Typing SVG" /></summary>
 
-<img src="https://camo.githubusercontent.com/06d3bb487dce32c7b4ce717bf64b96aa391981ab58c5b858077f36e81f9efdba/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3135266475726174696f6e3d312670617573653d3130303026636f6c6f723d3431423838332672616e646f6d3d66616c73652677696474683d343335266c696e65733d50726f6a656374">|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Details" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Project" title="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Details" alt="Typing SVG" />
 :---:|:---:|
 [Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
 [Testes Unitários no C# ](https://github.com/oflaviomattos/trilha-net-testes-unitarios)|Testes Unitários no C#.
