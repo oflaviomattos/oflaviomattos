@@ -88,6 +88,8 @@
 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oflaviomattos&bg_color=fff&color=41B883&line=41B883&point=41B883&area=true&hide_border=true)](https://github.com/oflaviomattos/github-readme-activity-graph)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&pause=1000&color=41B883&random=false&width=435&lines=Technologies+and+Tools" />
   <p align="center">
@@ -159,3 +161,4 @@
   | Dontpad                            | [dontpad.com](https://dontpad.com/) |
 </details>
 </h4>
+
