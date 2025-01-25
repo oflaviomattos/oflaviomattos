@@ -142,6 +142,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Project" title="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=41B883&random=false&width=435&lines=Details" alt="Typing SVG" />
 :---:|:---:|
+[Subdomain Finder](https://github.com/oflaviomattos/subdomains_finder)|Lista Subdominios ativos.
 [Busca de CEP Brasileiros ](https://github.com/oflaviomattos/consultarcep)|API de busca de CEP resultando um JSON.
 [Testes Unitários no C# ](https://github.com/oflaviomattos/trilha-net-testes-unitarios)|Testes Unitários no C#.
 </h4>
