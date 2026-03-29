@@ -5,7 +5,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=140&section=header&text=Flavio%20Mattos&fontSize=42&fontColor=0b0e13&fontAlignY=55&desc=Perito%20em%20Forense%20Digital%20%C2%B7%20Engenheiro%20de%20Software%20%C2%B7%20IEEE%20Member&descSize=14&descAlignY=78&descColor=1c2230&animation=twinkling" width="100%"/>
+<h1>Flavio Mattos</h1>
+
+<p>
+Perito em Informática Judicial · Especialista em Forense Digital · Engenheiro de Software
+</p>
+
+<p>
+Atuação nos Tribunais TJRJ e TRT-RJ · Membro do IEEE · +20 anos de experiência em TI
+</p>
 
 </div>
 
