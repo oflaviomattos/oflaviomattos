@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     FLÁVIO MATTOS — GitHub Profile README
+     FLAVIO MATTOS — GitHub Profile README
      Perito em Forense Digital · Engenheiro de Software · IEEE Member
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=140&section=header&text=Fl%C3%A1vio%20Mattos&fontSize=42&fontColor=0b0e13&fontAlignY=55&desc=Perito%20em%20Forense%20Digital%20%C2%B7%20Engenheiro%20de%20Software%20%C2%B7%20IEEE%20Member&descSize=14&descAlignY=78&descColor=1c2230&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=140&section=header&text=Flavio%20Mattos&fontSize=42&fontColor=0b0e13&fontAlignY=55&desc=Perito%20em%20Forense%20Digital%20%C2%B7%20Engenheiro%20de%20Software%20%C2%B7%20IEEE%20Member&descSize=14&descAlignY=78&descColor=1c2230&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  FLÁVIO MATTOS DE OLIVEIRA JUNIOR                                           │
+│  FLAVIO MATTOS DE OLIVEIRA JUNIOR                                           │
 │  ─────────────────────────────────────────────────────────────────────────  │
 │  > Perito em Informática Judicial · TJRJ & TRT-RJ                          │
 │  > Especialista em Forense Digital · IPOG (corpo docente da PF)            │
