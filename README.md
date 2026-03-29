@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<!-- HEADER SVG BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=140&section=header&text=Fl%C3%A1vio%20Mattos&fontSize=42&fontColor=0b0e13&fontAlignY=55&desc=Perito%20em%20Forense%20Digital%20%C2%B7%20Engenheiro%20de%20Software%20%C2%B7%20IEEE%20Member&descSize=14&descAlignY=78&descColor=1c2230&animation=twinkling" width="100%"/>
 
 </div>
@@ -14,7 +13,6 @@
 
 <div align="center">
 
-<!-- STATUS BADGES -->
 [![Perito Judicial](https://img.shields.io/badge/Perito%20Judicial-TJRJ%20%26%20TRT--RJ-c9a84c?style=for-the-badge&labelColor=0b0e13)](https://perito.flaviomattos.com)
 [![IEEE Member](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0b0e13)](https://ieee.org)
 [![Forense Digital](https://img.shields.io/badge/Forense%20Digital-Especialista%20IPOG-2dd4bf?style=for-the-badge&labelColor=0b0e13)](https://perito.flaviomattos.com)
@@ -24,7 +22,7 @@
 
 <br>
 
-<!-- ─── SOBRE ─────────────────────────────────────────────────────────────── -->
+---
 
 ## `$ whoami`
 
@@ -34,7 +32,9 @@
 │  ─────────────────────────────────────────────────────────────────────────  │
 │  > Perito em Informática Judicial · TJRJ & TRT-RJ                          │
 │  > Especialista em Forense Digital · IPOG (corpo docente da PF)            │
-│  > Engenheiro de Software · Bacharel em Sistemas de Informação · UNIESA    │
+│  > Engenheiro de Software · Dez/2025                                        │
+│  > Bacharel em Sistemas de Informação · UNIESA                             │
+│  > Pós-Grad. Eng. de Segurança do Trabalho · UNILEYA                       │
 │  > Membro IEEE — Institute of Electrical and Electronics Engineers         │
 │  > +20 anos de experiência em TI                                           │
 │  > Rio de Janeiro, RJ — Brasil                                              │
@@ -45,7 +45,7 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 
 <br>
 
-<!-- ─── ÁREAS DE ATUAÇÃO ──────────────────────────────────────────────────── -->
+---
 
 ## `$ ls -la /expertise`
 
@@ -98,7 +98,42 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 
 <br>
 
-<!-- ─── STACK ─────────────────────────────────────────────────────────────── -->
+---
+
+## `$ git log --graph --oneline`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oflaviomattos&bg_color=0b0e13&color=c9a84c&line=c9a84c&point=2dd4bf&area=true&area_color=c9a84c&hide_border=false&border_color=1c2230&radius=6&custom_title=Contribuições%20nos%20Últimos%2012%20Meses)](https://github.com/oflaviomattos)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oflaviomattos&theme=github_dark" width="100%"/>
+
+<br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oflaviomattos&theme=github_dark" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oflaviomattos&theme=github_dark" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oflaviomattos&theme=github_dark" width="32%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oflaviomattos&theme=github-dark-blue&background=0b0e13&border=1c2230&stroke=1c2230&ring=c9a84c&fire=e6c76a&currStreakNum=f7f8fc&sideNums=f7f8fc&currStreakLabel=c9a84c&sideLabels=8492a6&dates=8492a6&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oflaviomattos&layout=compact&theme=github_dark&title_color=c9a84c&text_color=e8eaf0&border_color=1c2230&bg_color=0b0e13&hide_border=false&langs_count=8" width="49%"/>
+
+</div>
+
+<br>
+
+---
 
 ## `$ cat /stack`
 
@@ -112,36 +147,44 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Ferramentas**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Sistemas Operacionais & Infra**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Forense**
+**Forense Digital**
 
 ![Autopsy](https://img.shields.io/badge/Autopsy-Forense-c9a84c?style=flat-square&labelColor=0b0e13)
 ![FTK](https://img.shields.io/badge/FTK-Forensic%20Toolkit-c9a84c?style=flat-square&labelColor=0b0e13)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Cellebrite](https://img.shields.io/badge/Cellebrite-2dd4bf?style=flat-square&labelColor=0b0e13)
+![OSINT](https://img.shields.io/badge/OSINT-2dd4bf?style=flat-square&labelColor=0b0e13)
 
 </div>
 
 <br>
 
-<!-- ─── FORMAÇÃO ───────────────────────────────────────────────────────────── -->
+---
 
 ## `$ cat /education`
 
@@ -149,15 +192,16 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 FORMAÇÃO ACADÊMICA & CERTIFICAÇÕES
 ───────────────────────────────────────────────────────────────────────────────
 
-[2025] Engenharia de Software ............... Concluído em Dezembro/2025
-[2023] Lic. Formação Pedagógica Informática . UNIASSELVI
-[2021] Pós-Grad. Forense Digital (420h) ..... IPOG · Docentes da Polícia Federal
-[2018] Bacharel em Sistemas de Informação ... UNIESA · Rio de Janeiro
-[????] Pós-Grad. Engenharia Seg. Trabalho ... UNILEYA
-[2021] CONPEJ (21h) ......................... Conselho Nacional de Peritos Judiciais
-[2017] COBIT Foundation (52h) ............... Fundação Bradesco
-[2017] Programação C# (117h) ................ Fundação Bradesco
-[2015] English · Intermediate ............... Delphin School · Dublin, Irlanda
+[Dez/2025] Engenharia de Software
+[2023]     Lic. Formação Pedagógica Informática ··· UNIASSELVI
+[2021]     Pós-Grad. Forense Digital (420h) ········ IPOG · Docentes da Polícia Federal
+[2018]     Bacharel em Sistemas de Informação ······ UNIESA · Rio de Janeiro
+[????]     Pós-Grad. Eng. de Seg. do Trabalho ····· UNILEYA
+[2021]     CONPEJ (21h) ························· Conselho Nacional de Peritos Judiciais
+[2017]     COBIT Foundation (52h) ··············· Fundação Bradesco
+[2017]     Programação C# (117h) ··············· Fundação Bradesco
+[2017]     Java Mobile J2ME (54h) ·············· Fundação Bradesco
+[2015]     English · Intermediate ·············· Delphin School · Dublin 🇮🇪
 
 IEEE ── Institute of Electrical and Electronics Engineers · Membro Ativo
 ───────────────────────────────────────────────────────────────────────────────
@@ -165,7 +209,7 @@ IEEE ── Institute of Electrical and Electronics Engineers · Membro Ativo
 
 <br>
 
-<!-- ─── ATUAÇÃO JUDICIAL ──────────────────────────────────────────────────── -->
+---
 
 ## `$ sudo cat /judicial`
 
@@ -178,26 +222,62 @@ IEEE ── Institute of Electrical and Electronics Engineers · Membro Ativo
 
 <br>
 
-<!-- ─── GITHUB STATS ───────────────────────────────────────────────────────── -->
+---
 
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oflaviomattos&show_icons=true&theme=github_dark&title_color=c9a84c&icon_color=2dd4bf&text_color=e8eaf0&border_color=1c2230&bg_color=0b0e13&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oflaviomattos&layout=compact&theme=github_dark&title_color=c9a84c&text_color=e8eaf0&border_color=1c2230&bg_color=0b0e13&hide_border=false&langs_count=8" />
-
-</div>
+## `$ cat /certifications`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oflaviomattos&theme=github-dark-blue&background=0b0e13&border=1c2230&stroke=1c2230&ring=c9a84c&fire=e6c76a&currStreakNum=f7f8fc&sideNums=f7f8fc&currStreakLabel=c9a84c&sideLabels=8492a6&dates=8492a6" height="140"/>
+| Curso | Certificado |
+|:---|:---:|
+| Formação PHP Experience | <a href="https://www.dio.me/certificate/260ED4B2/share" target="_blank"><img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" width="48" title="PHP Experience"/></a> <a href="https://www.dio.me/certificate/80FD2AA3/share" target="_blank"><img src="https://hermes.dio.me/courses/badge/1f8851df-7937-485a-a355-3d80b4cfab63.png" width="48" title="PHP Avançado"/></a> |
+| Versionamento com Git & GitHub | <a href="https://www.dio.me/certificate/F5BFD851/share" target="_blank"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="48" title="Git & GitHub"/></a> |
+| Python para Machine Learning | <a href="https://www.dio.me/certificate/A0C835A9/share" target="_blank"><img src="https://hermes.dio.me/courses/badge/e9f9ba3f-9366-43d7-b344-5ba280fbcaba.png" width="48" title="Python ML"/></a> |
+| Programação em C# | <a href="https://drive.google.com/file/d/1pqATeH5mL2V-oxubUaeXKGWDFEm6qi0b/view" target="_blank"><img src="https://hermes.dio.me/articles/cover/1673f198-295f-4f57-8eec-10d000018d51.png" width="48" title="C#"/></a> |
+| Java Mobile · J2ME | <a href="https://drive.google.com/file/d/1mAYIcdfa77xgamRAc06ausohBMp-nJW9/view" target="_blank"><img src="https://img.shields.io/badge/Java_J2ME-Certificado-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> |
+| Fundamentos de COBIT | <a href="https://drive.google.com/file/d/1R8-lBIUKjpxRJAVKX7Axc8kYvkQsro2b/view" target="_blank"><img src="https://img.shields.io/badge/COBIT-Certificado-c9a84c?style=flat-square&labelColor=0b0e13"/></a> |
+| Pós-Grad. Forense Digital · IPOG | ![IPOG](https://img.shields.io/badge/IPOG-Especialista_Forense_Digital-2dd4bf?style=flat-square&labelColor=0b0e13) |
+| Engenharia de Software · Dez/2025 | ![EngSoft](https://img.shields.io/badge/Engenharia_de_Software-Concluído_Dez%2F2025-c9a84c?style=flat-square&labelColor=0b0e13) |
+| Pós-Grad. Seg. do Trabalho · UNILEYA | ![UNILEYA](https://img.shields.io/badge/UNILEYA-Especialista-c9a84c?style=flat-square&labelColor=0b0e13) |
+| CONPEJ · Peritos Judiciais | ![CONPEJ](https://img.shields.io/badge/CONPEJ-21h_Formação_Pericial-2dd4bf?style=flat-square&labelColor=0b0e13) |
 
 </div>
 
 <br>
 
-<!-- ─── CONTATO ────────────────────────────────────────────────────────────── -->
+---
+
+## `$ ls /projects`
+
+| Projeto | Descrição | Stack |
+|:---|:---|:---:|
+| [🔎 Subdomain Finder](https://github.com/oflaviomattos/subdomains_finder) | Lista subdomínios ativos de um alvo | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [📮 Consulta de CEP](https://github.com/oflaviomattos/consultarcep) | API de busca de CEP retornando JSON | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [🧪 Testes Unitários C#](https://github.com/oflaviomattos/trilha-net-testes-unitarios) | Testes unitários com .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+
+<br>
+
+---
+
+## `$ curl /links`
+
+<div align="center">
+
+| Recurso | Link |
+|:---|:---|
+| 🌐 Site Pericial | [perito.flaviomattos.com](https://perito.flaviomattos.com) |
+| 🌐 Site Pessoal | [flaviomattos.com](https://www.flaviomattos.com) |
+| 💼 LinkedIn | [linkedin.com/in/oflaviomattos](https://linkedin.com/in/oflaviomattos) |
+| 🎓 DIO Profile | [dio.me/users/me_26560](https://www.dio.me/users/me_26560) |
+| 📊 Kaggle | [kaggle.com/flaviomattos](https://www.kaggle.com/flaviomattos) |
+| 🔬 Hexed.it | [hexed.it](https://hexed.it) |
+| 📝 Replit | [replit.com](https://replit.com) |
+
+</div>
+
+<br>
+
+---
 
 ## `$ ping /contact`
 
@@ -212,7 +292,7 @@ IEEE ── Institute of Electrical and Electronics Engineers · Membro Ativo
 
 <br>
 
-<!-- ─── FOOTER ─────────────────────────────────────────────────────────────── -->
+---
 
 <div align="center">
 
@@ -224,4 +304,4 @@ IEEE ── Institute of Electrical and Electronics Engineers · Membro Ativo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=90&section=footer" width="100%"/>
