@@ -127,7 +127,7 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=oflaviomattos&theme=github-dark-blue&background=0b0e13&border=1c2230&stroke=1c2230&ring=c9a84c&fire=e6c76a&currStreakNum=f7f8fc&sideNums=f7f8fc&currStreakLabel=c9a84c&sideLabels=8492a6&dates=8492a6&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oflaviomattos&layout=compact&theme=github_dark&title_color=c9a84c&text_color=e8eaf0&border_color=1c2230&bg_color=0b0e13&hide_border=false&langs_count=8" width="49%"/>
+
 
 </div>
 
