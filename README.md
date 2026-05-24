@@ -112,7 +112,15 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oflaviomattos&bg_color=0b0e13&color=c9a84c&line=c9a84c&point=2dd4bf&area=true&area_color=c9a84c&hide_border=false&border_color=1c2230&radius=6&custom_title=Contribuições%20nos%20Últimos%2012%20Meses)](https://github.com/oflaviomattos)
+<!-- ── OPÇÃO 1: Gráfico nativo do GitHub (nunca quebra, reflete contribuições reais) ── -->
+
+[![Contribuições](https://ghchart.rshah.org/c9a84c/oflaviomattos)](https://github.com/oflaviomattos)
+
+<br>
+
+<!-- ── OPÇÃO 2: Serviço de terceiros (visual extra / curva de atividade) ── -->
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oflaviomattos&theme=github-compact&bg_color=0b0e13&color=c9a84c&line=c9a84c&point=2dd4bf&area=true&hide_border=false&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%9Altimos%2012%20Meses)](https://github.com/oflaviomattos)
 
 </div>
 
@@ -120,13 +128,13 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oflaviomattos&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oflaviomattos&theme=github_dark" width="100%"/>
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oflaviomattos&theme=github_dark" width="32%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oflaviomattos&theme=github_dark" width="32%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oflaviomattos&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oflaviomattos&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oflaviomattos&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oflaviomattos&theme=github_dark" width="32%"/>
 
 </div>
 
@@ -134,8 +142,7 @@ Profissional de TI com mais de **20 anos de experiência**, especializado em **f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oflaviomattos&theme=github-dark-blue&background=0b0e13&border=1c2230&stroke=1c2230&ring=c9a84c&fire=e6c76a&currStreakNum=f7f8fc&sideNums=f7f8fc&currStreakLabel=c9a84c&sideLabels=8492a6&dates=8492a6&hide_border=false" width="49%"/>
-
+<img src="https://streak-stats.demolab.com?user=oflaviomattos&theme=github-dark-blue&background=0b0e13&border=1c2230&ring=c9a84c&fire=e6c76a&currStreakNum=f7f8fc&sideNums=f7f8fc&currStreakLabel=c9a84c&sideLabels=8492a6&dates=8492a6&hide_border=false" width="49%"/>
 
 </div>
 
